@@ -65,3 +65,10 @@ git submodule update --init --recursive
 ```
 
 Change the Python NuGet package version: start Python and check the Python version. Right click project --> Manage NuGet Packages... --> Updates --> Version.
+
+## Useful links 
+
+Web C++ compiler
+
+https://godbolt.org/
+https://wandbox.org/
